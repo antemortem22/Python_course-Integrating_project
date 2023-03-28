@@ -8,12 +8,14 @@ remove = ""
 #Executing the code infinitely
 while True: 
     #Charging the options
+    print("###########################")
     print("Enter the number you want to run: ")
     print("1 - See the list of students")
     print("2 - Add a new student to the list")
     print("3 - Remove student from the list")
     print("4 - Exit")
     option = input("-->")
+    print("###########################")
 #Option to show the list
     if option == "1":
         if students != []:
@@ -59,5 +61,6 @@ while True:
     else:
         print("The entered option is not valid.")
 print("Thanks for using this app! :)")
+print("###########################")
 
 
