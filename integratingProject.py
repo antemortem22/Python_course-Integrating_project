@@ -5,6 +5,10 @@ option = ""
 name= ""
 courses = ""
 remove = ""
+
+print("###########################")
+print("Hi!, welcome to this app :)")
+
 #Executing the code infinitely
 while True: 
     #Charging the options
@@ -60,6 +64,7 @@ while True:
         break
     else:
         print("The entered option is not valid.")
+
 print("Thanks for using this app! :)")
 print("###########################")
 
