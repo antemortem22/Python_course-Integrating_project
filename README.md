@@ -12,9 +12,9 @@ Starting from these instructions, I've decided to add one more option and costum
 
 This project has many stages and now we can see how works the first one:
 
-![example 1](https://user-images.githubusercontent.com/80971815/228378399-d874a073-f2c6-46ac-9200-fdfea7db822f.png)
+![image](https://user-images.githubusercontent.com/80971815/228381074-aec967b4-c449-4199-b256-d308b8a1f15c.png)
 
-![example 2](https://user-images.githubusercontent.com/80971815/228378481-f92c6338-1279-4f61-b894-f741a2042212.png)
+![image](https://user-images.githubusercontent.com/80971815/228381151-9d4aeea5-d6d2-4129-8f0d-33f084b571ed.png)
 
 
 
